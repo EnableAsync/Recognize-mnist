@@ -7,7 +7,7 @@ from PIL import Image
 
 model = load_model('99.55%.h5')
 
-image_path = r'C:\Users\SJJ\Desktop\test.png'
+image_path = 'test.png'
 
 '''
 img = imgio.imread(image_path, as_gray=True)
